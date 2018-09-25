@@ -8,9 +8,9 @@
 	<LabelList
 		id="list"
 		translation = "[100, 100]">
-		<Font role="font" uri="pkg:/fonts/Roboto-Regular.ttf" size="36"/>
-		<Font role="focusedFont" uri="pkg:/fonts/Roboto-Medium.ttf" size="36"/>
-		<Font role="sectionDividerFont" uri="pkg:/fonts/Roboto-Thin.ttf" size="24"/>
+		<Font role="font" uri="pkg:/fonts/NotoSans-Regular.ttf" size="36"/>
+		<Font role="focusedFont" uri="pkg:/fonts/NotoSans-Bold.ttf" size="36"/>
+		<Font role="sectionDividerFont" uri="pkg:/fonts/NotoSans-Regular.ttf" size="24"/>
 	</LabelList>
 	<Video
 		id="Video"
